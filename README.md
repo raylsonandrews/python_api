@@ -2,6 +2,8 @@
 
 # Alterando dados do arquivo build-docker.yaml
 
+# Nova alteração
+
 Exemplo de API Rest com Python
 
 ## Para executar localmente
